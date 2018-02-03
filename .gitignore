@@ -1,6 +1,8 @@
 # Locally igonre .bak files
 *.bak
 temp/*
+*.out
+*.tmp
 
 
 
